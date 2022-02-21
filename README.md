@@ -1,7 +1,7 @@
 # ntbcrmhelp
 版本更新已经说明使用教程
 
-![image](https://github.com/netbcloud/ntbcrmhelp/blob/main/images/weixin.png)
+![image](https://github.com/netbcloud/ntbcrmhelp/blob/main/images/ntb.jpg)
 
 v4.0.210209 (2021-02-09)
 
